@@ -2,7 +2,7 @@
 - 👀 I’m interested in drawing and coding
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Computer Vision
-- 📫 How to reach me: gmail: 19521309@gm.uit.edu.vn and discord GTI|ld#1314
+- 📫 How to reach me: gmail: 19521309@gm.uit.edu.vn and discord ld#1314
 
 <!---
 19521309/19521309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
